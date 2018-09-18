@@ -3,7 +3,7 @@
 
 * [Spring]
   * [动态代理](https://github.com/hwa01/java-all-in/blob/master/README.md#动态代理)
-  * [JDK动态代理]
+  * [JDK动态代理](https://github.com/hwa01/java-all-in/blob/master/README.md#JDK动态代理)
   * [Cglib动态代理](https://blog.csdn.net/sunnycoco05/article/details/78853148)
   * [Spring动态代理](https://blog.csdn.net/sunnycoco05/article/details/78901449)
   * [Java查看动态代理生成的代码](https://www.cnblogs.com/ctgulong/p/5011614.html)
