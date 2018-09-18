@@ -18,4 +18,9 @@
 > 打印出proxy
 	
 	
+## spring中的单例，及单例模式
+* [由Spring框架中的单例模式想到的](http://www.cnblogs.com/chengxuyuanzhilu/p/6404991.html)
+* [Spring Bean单例与线程安全](https://www.cnblogs.com/redcool/p/6398760.html)
+
+
 	
