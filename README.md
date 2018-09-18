@@ -6,7 +6,8 @@
   * [JDK动态代理]
   * [Cglib动态代理]
   * [Spring动态代理]
-
+  * [Java查看动态代理生成的代码](https://www.cnblogs.com/ctgulong/p/5011614.html)
+  * [JDK动态代理生成.class文件和cglib动态代理生成.class文件](https://blog.csdn.net/zhao1991abc/article/details/52926620)
 
 # 动态代理
 
@@ -15,4 +16,6 @@
 > 打印出proxy
 * [《JDK Proxy 解析基于Java 8》](https://blog.csdn.net/sunnycoco05/article/details/78845878)
 > 打印出proxy
+	
+	
 	
