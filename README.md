@@ -35,3 +35,5 @@
 * [Spring同一个类中注解方法互相调用的问题](https://www.cnblogs.com/shuzl/p/5304762.html)
 * [在同一个类中，一个方法调用另外一个有注解的方法，注解失效的原因和解决方法](https://blog.csdn.net/wudiyong22/article/details/77853347)
 
+# [todo] 
+*  为什么Spring的@Autowire用的是cglib？
