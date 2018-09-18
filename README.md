@@ -23,4 +23,15 @@
 * [Spring Bean单例与线程安全](https://www.cnblogs.com/redcool/p/6398760.html)
 
 
-	
+## @Transactional
+* [@Transactional的使用及原理](https://blog.csdn.net/aichuanwendang/article/details/53306351)
+* [@Transactional是如何工作的](https://mp.weixin.qq.com/s/ZwhkUQF1Nun9pNrFI-3a6w)
+> 介绍了spring AopProxy的两种方式，以及@transactional常见使用错误的原因
+
+## 同一个类中的注解方法互相调用时,注解机制可能是无效的
+* [在同一个类中调用另一个方法没有触发 Spring AOP 的问题](https://segmentfault.com/a/1190000008379179)
+> 可以用自己注入自己的方式来实现
+* [同类中嵌套AOP--注解事物在同一类中嵌套调用不生效](https://www.cnblogs.com/vi-2525/p/8761544.html)
+* [Spring同一个类中注解方法互相调用的问题](https://www.cnblogs.com/shuzl/p/5304762.html)
+* [在同一个类中，一个方法调用另外一个有注解的方法，注解失效的原因和解决方法](https://blog.csdn.net/wudiyong22/article/details/77853347)
+
